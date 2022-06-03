@@ -30,7 +30,7 @@ If it fails in Windows, it may work executing the command like this
 go build
 ```
 
-And then open the .exe file from command line our double clicking it.
+And then open the .exe file from command line or double clicking it.
 
 From command line it may be like so:
 
